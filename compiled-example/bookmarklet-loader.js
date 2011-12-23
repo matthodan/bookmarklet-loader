@@ -25,7 +25,7 @@ BookmarkletLoader = (function() {
       script = document.createElement('script');
       script.type = 'text/javascript';
       script.charset = 'UTF-8';
-      script.src = this.script + '?' + rand;
+      script.src = this.script;
       root.appendChild(script);
     }
     if (this.style !== null) {
