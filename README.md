@@ -2,6 +2,8 @@
 
 Bookmarklet Loader is a template [bookmarklet](http://en.wikipedia.org/wiki/Bookmarklet 'Bookmarklet') that injects a .js and .css link into the current page.
 
+Sites such as [Pinterest](http://pinterest.com/about/goodies/) and [Instapaper](http://www.instapaper.com/extras) use similar implementations as Bookmarklet Loader to load their bookmarklet code.
+
 ## Usage
 
 Update the following in 'bookmarklet-loader.js.coffee' to refer to your app's .js and .css.  If
