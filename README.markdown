@@ -20,8 +20,4 @@
 
   You may be able to update the compiled example and save yourself the time of installing CoffeeScript.  Don't forget to URL encode whatever you update!
 
-  Drag this link to your bookmarks bar and click on the new bookmark to try Bookmarklet Loader.  You'll need to view page source to see the changes-- look for a div with the id 'yourApp'.
-
-  <a href="javascript:(function(){alert('This is a test')}());">Example Bookmarklet Link</a>
-
   Contact me if you have any questions-- [Matt Hodan blog](http://blog.matthodan.com).
