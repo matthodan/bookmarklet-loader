@@ -10,7 +10,7 @@ class BookmarkletLoader
       script = document.createElement 'script'
       script.type = 'text/javascript'
       script.charset = 'UTF-8'
-      script.src = @script + '?' + rand
+      script.src = @script
       root.appendChild script
     if @style != null
       style = document.createElement 'link'
