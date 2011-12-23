@@ -20,8 +20,6 @@
 
   Contact me if you have any questions at [my blog](http://blog.matthodan.com).
 
-## Compiled Example
+## Compiled Examples
 
-
-  You may be able to update this compiled URL encoded version and save yourself the time of installing CoffeeScript.
-
+  You may be able to update the compiled examples and save yourself the time of installing CoffeeScript.  Don't forget to URL encode whatever you update in the compiled examples!
