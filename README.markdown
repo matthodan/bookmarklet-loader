@@ -22,4 +22,4 @@
 
 ## Compiled Examples
 
-  You may be able to update the compiled examples and save yourself the time of installing CoffeeScript.  Don't forget to URL encode whatever you update in the compiled examples!
+  You may be able to update the compiled examples and save yourself the time of installing CoffeeScript.  Don't forget to URL encode whatever you update!
