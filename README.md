@@ -19,4 +19,4 @@ Bookmarklet Loader is written in CoffeeScript, however bookmarklets must be Java
 
 ## Contact
 
-Contact me if you have a question-- [Matt Hodan blog](http://blog.matthodan.com).
+Contact me if you have a question-- [Matt's Blog](http://www.matthodan.com).
